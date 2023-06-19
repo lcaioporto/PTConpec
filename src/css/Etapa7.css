@@ -1,0 +1,37 @@
+.linhaEtapa7 {
+    position: absolute;
+    width: 117.56px;
+    height: 0px;
+    left: 290px;
+    top: 930px;
+    border: 1px solid #FFFFFF;
+    transform: rotate(90deg);
+}
+
+.txtEtapa7 {
+    position: absolute;
+    width: 400px;
+    height: 0px;
+    left: 220px;
+    top: 800px;
+    font-family: 'Open Sans';
+    font-size: 40px;
+}
+
+.titulo7 {
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    top: 900px;
+    left: 90px;
+    width: 300px;
+}
+
+.texto7 {
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    top: 950px;
+    left: 90px;
+    width: 250px;
+}

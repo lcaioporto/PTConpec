@@ -1,0 +1,37 @@
+.linhaEtapa6 {
+    position: absolute;
+    width: 117.56px;
+    height: 0px;
+    left: 1150px;
+    top: 630px;
+    border: 1px solid #FFFFFF;
+    transform: rotate(90deg);
+}
+
+.txtEtapa6 {
+    position: absolute;
+    width: 400px;
+    height: 0px;
+    left: 1090px;
+    top: 500px;
+    font-family: 'Open Sans';
+    font-size: 40px;
+}
+
+.titulo6 {
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    top: 600px;
+    left: 820px;
+    width: 700px;
+}
+
+.texto6 {
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    top: 650px;
+    left: 820px;
+    width: 350px;
+}

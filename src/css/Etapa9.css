@@ -1,0 +1,37 @@
+.linhaEtapa9 {
+    position: absolute;
+    width: 117.56px;
+    height: 0px;
+    left: 1150px;
+    top: 930px;
+    border: 1px solid #FFFFFF;
+    transform: rotate(90deg);
+}
+
+.txtEtapa9 {
+    position: absolute;
+    width: 400px;
+    height: 0px;
+    left: 1090px;
+    top: 800px;
+    font-family: 'Open Sans';
+    font-size: 40px;
+}
+
+.titulo9 {
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    top: 900px;
+    left: 1090px;
+    width: 300px;
+}
+
+.texto9 {
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    top: 950px;
+    left: 1090px;
+    width: 150px;
+}

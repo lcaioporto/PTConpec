@@ -1,0 +1,37 @@
+.linhaEtapa5 {
+    position: absolute;
+    width: 117.56px;
+    height: 0px;
+    left: 720px;
+    top: 630px;
+    border: 1px solid #FFFFFF;
+    transform: rotate(90deg);
+}
+
+.txtEtapa5 {
+    position: absolute;
+    width: 400px;
+    height: 0px;
+    left: 660px;
+    top: 500px;
+    font-family: 'Open Sans';
+    font-size: 40px;
+}
+
+.titulo5 {
+    position: absolute;
+    font-size: 30px;
+    color: white;
+    top: 600px;
+    left: 450px;
+    width: 700px;
+}
+
+.texto5 {
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    top: 650px;
+    left: 450px;
+    width: 350px;
+}
