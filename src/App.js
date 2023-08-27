@@ -23,6 +23,7 @@ function App() {
   const style = {
     backgroundColor: '#5242c6',
   }
+  
   return (
     <div className = "mainDiv" style={style}>
       <Header />
